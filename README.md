@@ -1,23 +1,21 @@
 # Projects
 
-A collection of personal programming projects built for learning, experimentation, and portfolio development.  
-This repository includes small standalone applications and game-oriented projects written in different styles and with different goals.
+A small collection of personal programming projects.  
+This repo is a place for things I build to learn, test ideas, and make something fun or useful.
 
-Some of these projects were developed with the support of AI tools during brainstorming, iteration, debugging, and refinement.  
-AI was used as a development assistant, while the final structure, decisions, testing, and adjustments were handled as part of the project-building process.
+Both projects here were developed with the help of AI tools during brainstorming, coding, debugging, and polishing.  
+I use AI as a support tool to iterate faster and explore ideas more easily.
 
 ---
 
 ## Projects
 
 ### RPG
-A terminal-based AI-powered text RPG set in the Percy Jackson universe.  
-The game uses Gemini as a dynamic Game Master that reacts to player input and manages hidden game-state updates in the background.
+A terminal-based AI-powered text RPG set in the Percy Jackson universe.
 
 Path: [`rpg/`](./rpg)
 
 ### Sudoku
-A terminal-based Sudoku game written in C++20.  
-It includes puzzle generation, a backtracking solver, and an interactive command-line gameplay loop.
+A C++ terminal Sudoku game with puzzle generation, solving, and interactive play.
 
 Path: [`sudoku/`](./sudoku)
