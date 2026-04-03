@@ -1,9 +1,5 @@
 # Demigod Chronicles RPG
 
-![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)
-![Gemini API](https://img.shields.io/badge/Google%20Gemini-2.5%20Flash-orange)
-![License](https://img.shields.io/badge/license-MIT-green)
-
 A terminal-based text RPG set in the universe of Percy Jackson (by Rick Riordan). The game is dynamically powered by **Google's Gemini AI**, which acts as an intelligent Game Master. It reacts to your creative choices, generates the narrative, and secretly manages your character's stats using background JSON responses.
 
 ---
