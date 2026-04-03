@@ -27,8 +27,8 @@ A terminal-based text RPG set in the universe of Percy Jackson (by Rick Riordan)
 
 **2. Clone and install dependencies**
 ```bash
-git clone [https://github.com/YOUR_USERNAME/demigod-chronicles-rpg.git](https://github.com/YOUR_USERNAME/demigod-chronicles-rpg.git)
-cd demigod-chronicles-rpg
+git clone [https://github.com/rybakwojciech589/projects.git](https://github.com/rybakwojciech589/projects.git)
+cd projects/rpg
 pip install google-genai colorama
 ```
 
